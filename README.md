@@ -23,7 +23,7 @@ cd gemini-bot
 	2.	Install dependencies: pip install -r requirements.txt
 
 Usage
-	1.	Run the bot:python gemini_bot.py
+	1.	Run the bot:python gemini.py
 
 	2.	When prompted, enter your Gemini API key.
 	3.	Type your prompt and press Enter. Type ‎⁠exit⁠ or ‎⁠quit⁠ to end the session.
