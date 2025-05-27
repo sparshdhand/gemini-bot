@@ -17,10 +17,10 @@ Requirements
 	•	‎⁠google-generativeai⁠ Python package
 
 Installation
-	1.	Clone the repositorygit clone https://github.com/sparshdhand/gemini-bot.git
+	1.	Clone the repository: git clone https://github.com/sparshdhand/gemini-bot.git
 cd gemini-bot
 
-	2.	Install dependenciespip install -r requirements.txt
+	2.	Install dependencies: pip install -r requirements.txt
 
 Usage
 	1.	Run the bot:python gemini_bot.py
